@@ -14,3 +14,8 @@ We experimented with several machine learning algorithms to find the best-perfor
 - Decision Tree (DT)
 - Gradient Boosting Classifier (GBC)
 - Random Forest Classifier (RFC)
+
+## Usage example
+<p align="center">
+  <img width="100%" src="https://i.imgur.com/9tfq56E.png" alt="Fake News Detection" />
+</p>
